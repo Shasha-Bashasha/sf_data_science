@@ -4,9 +4,9 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число] ()
-* [Проект 1. ______] (https://github.com/Shasha-Bashasha/sf_data_science/projetc_0)
-* [Проект 2. ______] (___)
+* [Проект 0. Игра: Угадай число]()
+* [Проект 1. ______](https://github.com/Shasha-Bashasha/sf_data_science/tree/main/project_0)
+* [Проект 2. ______](___)
 
 ## Ссылки на резюме
 
